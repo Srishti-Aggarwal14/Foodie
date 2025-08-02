@@ -30,3 +30,8 @@ dist-ssr
 # Ignore uploaded files from multer
 /backend/uploads
 
+# Ignore env files
+*.env
+backend/.env
+RAZORPAY_KEY_ID=your_razorpay_key_i.txt
+
